@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1731411403 source:d:\projects\iti imporatant\c langauge\labs\lab4\main.c
+1731508433 source:d:\projects\iti imporatant\c langauge\labs\lab4\main.c
 	<stdio.h>
 	<stdlib.h>
+	<windows.h>
 	<conio.h>
 
