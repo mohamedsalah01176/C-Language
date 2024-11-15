@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731658059 source:d:\projects\iti imporatant\c langauge\labs\lab5\assigment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
